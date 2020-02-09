@@ -5,5 +5,9 @@ public class TestBase {
 	{
 		System.out.print("test method");
 	}
+	public void Referesh()
+	{
+		System.out.print("browser refereshed");
+	}
 
 }
